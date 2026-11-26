@@ -20,3 +20,6 @@ models/
 *.mov
 *.webm
 *.zip
+
+# Curated, original soundtrack examples
+!music/assets/*.mp3

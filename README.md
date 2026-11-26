@@ -7,6 +7,10 @@
 - 输出MP4、SRT、剪辑与署名清单。不登录账号，不代发社交平台。
 - 旁白可用录音，也可选配本地Piper普通话音色Chaowen。AI音频在成片标注。
 
+## 新闻配乐素材库
+
+[试听并下载原创配乐](music/README.md)：悬疑调查和太空纪实各一段，含MP3、生成脚本和旁白混音示例。制作样片时可先选音乐，再根据事实节奏剪转场。
+
 ## 五分钟试跑
 
 以Linux为例。需要Python 3.10+、FFmpeg（含ffprobe和libx264）、Noto Sans CJK、libfluidsynth.so.3及一个本地General MIDI SoundFont。Debian/Ubuntu对应系统包通常为 `ffmpeg fonts-noto-cjk libfluidsynth3 timgm6mb-soundfont`；若字体或SoundFont位置不同，在渲染命令中传入 `--font`、`--bold`、`--soundfont`。本仓库不分发字体、SoundFont或模型。
