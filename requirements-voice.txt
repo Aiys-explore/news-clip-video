@@ -1,0 +1,2 @@
+-r requirements.txt
+piper-tts[zh]==1.8.0

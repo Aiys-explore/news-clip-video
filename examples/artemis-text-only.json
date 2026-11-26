@@ -1,0 +1,96 @@
+{
+  "title": "猎户座三个时间节点｜纯图卡示例",
+  "edition": "ARCHIVE 2022-12-11",
+  "story_source": "https://www.nasa.gov/centers-and-facilities/hq/splashdown-nasas-orion-returns-to-earth-after-historic-moon-mission/",
+  "music": null,
+  "assets": {},
+  "beats": [
+    {
+      "role": "outcome",
+      "fact_ids": [
+        "splash"
+      ],
+      "visual_role": "document",
+      "layout": "statement",
+      "duration": 7,
+      "headline": "NASA任务档案",
+      "detail": "2022-12-11｜美东12:40",
+      "caption": "2022年12月11日，猎户座在太平洋溅落。",
+      "event_date": "2022-12-11",
+      "fact": "猎户座溅落太平洋",
+      "graphic": {
+        "lines": [
+          "无人飞船结束绕月测试并被回收"
+        ]
+      }
+    },
+    {
+      "role": "prior",
+      "fact_ids": [
+        "flyby"
+      ],
+      "visual_role": "document",
+      "layout": "statement",
+      "duration": 9,
+      "headline": "NASA任务档案",
+      "fact": "回到上一个节点",
+      "detail": "2022-12-05｜NASA任务日志",
+      "graphic": {
+        "lines": [
+          "返程发动机点火完成"
+        ]
+      },
+      "caption": "倒回12月5日，猎户座完成飞越时的点火，飞向地球。",
+      "event_date": "2022-12-05"
+    },
+    {
+      "role": "origin",
+      "fact_ids": [
+        "launch"
+      ],
+      "visual_role": "document",
+      "layout": "statement",
+      "duration": 8,
+      "headline": "NASA任务档案",
+      "detail": "2022-11-16｜肯尼迪航天中心",
+      "caption": "再往前是11月16日，SLS搭载猎户座从佛罗里达升空。",
+      "event_date": "2022-11-16",
+      "fact": "SLS首次发射",
+      "graphic": {
+        "lines": [
+          "SLS火箭搭载无人猎户座"
+        ]
+      }
+    }
+  ],
+  "brand": "新闻图解",
+  "author_credit": "示例｜NASA资料",
+  "editorial": {
+    "structure": "reverse_chronology",
+    "question": "从溅落倒推，返程和发射各有什么关键节点？",
+    "as_of": "2022-12-11",
+    "facts": {
+      "splash": {
+        "text": "2022-12-11 12:40 EST，猎户座返回并溅落太平洋。",
+        "source": "https://www.nasa.gov/blogs/artemis/2022/12/11/artemis-i-flight-day-26-orion-splashes-down-concluding-historic-artemis-i-mission/",
+        "locator": "首段：时间和地点",
+        "kind": "fact",
+        "available_on": "2022-12-11"
+      },
+      "flyby": {
+        "text": "2022-12-05，猎户座完成返回动力飞越，飞向预定的返回溅落。",
+        "source": "https://www.nasa.gov/blogs/missions/2022/12/05/artemis-i-flight-day-20-orion-conducts-return-powered-flyby/",
+        "locator": "首段：返程发动机点火完成",
+        "kind": "fact",
+        "available_on": "2022-12-05"
+      },
+      "launch": {
+        "text": "2022-11-16，SLS从肯尼迪航天中心发射，搭载无人的猎户座。",
+        "source": "https://www.nasa.gov/centers-and-facilities/hq/splashdown-nasas-orion-returns-to-earth-after-historic-moon-mission/",
+        "locator": "开头回顾发射日期",
+        "kind": "fact",
+        "available_on": "2022-12-11"
+      }
+    }
+  }
+}

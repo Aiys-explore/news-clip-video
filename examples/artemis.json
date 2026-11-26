@@ -1,0 +1,89 @@
+{
+  "title": "猎户座如何回到地球？",
+  "edition": "ARCHIVE / 2022",
+  "story_source": "https://www.nasa.gov/mission/artemis-i/",
+  "music": null,
+  "assets": {
+    "ascent": {
+      "file": "nasa-ascent.mp4",
+      "source": "https://commons.wikimedia.org/wiki/File:Artemis_I_Rocket_Camera_Footage_of_Ascent_(Artemis_I_-_Rocket_Camera_Footage).webm",
+      "download": "https://images-assets.nasa.gov/video/Artemis%20I%20-%20Rocket%20Camera%20Footage/Artemis%20I%20-%20Rocket%20Camera%20Footage~orig.mp4",
+      "rights": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+      "rights_status": "cleared_for_edit",
+      "credit": "NASA档案｜2022.11.16"
+    },
+    "splash": {
+      "file": "nasa-splash.mp4",
+      "source": "https://images.nasa.gov/details-KSC-20221211-MH-JBP01-0001-Artemis_1_Orion_Splash_Down_6K_Video-3312491",
+      "download": "https://images-assets.nasa.gov/video/KSC-20221211-MH-JBP01-0001-Artemis_1_Orion_Splash_Down_6K_Video-3312491/KSC-20221211-MH-JBP01-0001-Artemis_1_Orion_Splash_Down_6K_Video-3312491~medium.mp4",
+      "rights": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+      "rights_status": "cleared_for_edit",
+      "credit": "NASA无人机档案｜2022.12.11",
+      "crop": [
+        350,
+        674,
+        465,
+        0
+      ]
+    }
+  },
+  "beats": [
+    {
+      "duration": 5,
+      "asset": "splash",
+      "in": 99,
+      "headline": "先看返航",
+      "fact": "12月11日",
+      "detail": "猎户座在降落伞下下降",
+      "note": "太平洋｜档案实拍",
+      "caption": "先看返航。三朵红白相间的降落伞，带着猎户座往太平洋降落。"
+    },
+    {
+      "duration": 6,
+      "asset": "ascent",
+      "in": 6,
+      "headline": "倒回发射日",
+      "fact": "11月16日",
+      "detail": "SLS火箭搭载猎户座",
+      "note": "机载影像｜档案实拍",
+      "caption": "25天前，SLS火箭在肯尼迪航天中心把它送上太空。"
+    },
+    {
+      "duration": 7,
+      "headline": "飞了多久？",
+      "fact": "25天10小时53分",
+      "detail": "Artemis I无人绕月飞行",
+      "note": "图解｜NASA任务资料",
+      "caption": "这是一次无人试飞。猎户座绕过月球，再带着飞行数据返回地球。",
+      "graphic": {
+        "title": "无人绕月试飞",
+        "steps": [
+          [
+            "起飞",
+            "11月16日"
+          ],
+          [
+            "绕月",
+            "任务阶段"
+          ],
+          [
+            "溅落",
+            "12月11日"
+          ]
+        ]
+      }
+    },
+    {
+      "duration": 6,
+      "asset": "splash",
+      "in": 236,
+      "headline": "最后一关",
+      "fact": "海上溅落",
+      "detail": "12月11日返回太平洋",
+      "note": "降落伞与溅落｜档案实拍",
+      "caption": "相比发射，返回也是一场测试：再入之后，飞船要靠降落伞减速并安全溅落。"
+    }
+  ],
+  "brand": "新闻图解",
+  "author_credit": "示例｜NASA资料"
+}

@@ -1,0 +1,168 @@
+{
+  "title": "猎户座返航，接下来要看什么？",
+  "edition": "ARCHIVE 2022-12-11",
+  "story_source": "https://www.nasa.gov/centers-and-facilities/hq/splashdown-nasas-orion-returns-to-earth-after-historic-moon-mission/",
+  "music": null,
+  "assets": {
+    "ascent": {
+      "file": "nasa-ascent.mp4",
+      "source": "https://commons.wikimedia.org/wiki/File:Artemis_I_Rocket_Camera_Footage_of_Ascent_(Artemis_I_-_Rocket_Camera_Footage).webm",
+      "download": "https://images-assets.nasa.gov/video/Artemis%20I%20-%20Rocket%20Camera%20Footage/Artemis%20I%20-%20Rocket%20Camera%20Footage~orig.mp4",
+      "rights": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+      "rights_status": "cleared_for_edit",
+      "credit": "NASA档案｜2022.11.16"
+    },
+    "splash_wide": {
+      "file": "nasa-splash-wide.mp4",
+      "source": "https://images.nasa.gov/details-KSC-20221211-VP-MWC01-001-ARTEMIS-SPLASHDOWN-3296595",
+      "download": "https://images-assets.nasa.gov/video/KSC-20221211-VP-MWC01-001-ARTEMIS-SPLASHDOWN-3296595/KSC-20221211-VP-MWC01-001-ARTEMIS-SPLASHDOWN-3296595~medium.mp4",
+      "rights": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+      "rights_status": "cleared_for_edit",
+      "credit": "NASA档案｜2022.12.11"
+    }
+  },
+  "beats": [
+    {
+      "role": "news",
+      "fact_ids": [
+        "splash"
+      ],
+      "visual_role": "direct",
+      "visual_date": "2022-12-11",
+      "asset": "splash_wide",
+      "layout": "full",
+      "duration": 4,
+      "in": 96,
+      "headline": "猎户座溅落太平洋",
+      "detail": "2022-12-11｜美东12:40",
+      "caption": "2022年12月11日，猎户座在太平洋溅落。"
+    },
+    {
+      "role": "why_now",
+      "fact_ids": [
+        "test",
+        "launch"
+      ],
+      "visual_role": "archive",
+      "visual_date": "2022-11-16",
+      "asset": "ascent",
+      "layout": "full",
+      "duration": 5,
+      "in": 6,
+      "headline": "首次综合飞行试验",
+      "detail": "2022-11-16｜SLS发射档案",
+      "caption": "NASA首次把火箭、飞船和地面系统放在同一次飞行中测试。"
+    },
+    {
+      "role": "significance",
+      "fact_ids": [
+        "heat"
+      ],
+      "visual_role": "document",
+      "layout": "statement",
+      "duration": 5,
+      "headline": "这次飞行检验什么",
+      "fact": "月球返回再入",
+      "detail": "任务目标｜NASA Artemis I Press Kit",
+      "graphic": {
+        "lines": [
+          "在月球返回的再入条件下检验隔热盾",
+          "为下一次载人飞行积累数据"
+        ]
+      },
+      "caption": "隔热盾要扛得住月球返程再入，这是载人飞行之前的一道关。"
+    },
+    {
+      "role": "reaction",
+      "fact_ids": [
+        "quote"
+      ],
+      "visual_role": "document",
+      "layout": "statement",
+      "duration": 5,
+      "headline": "NASA发布稿｜转述",
+      "fact": "比尔·纳尔逊",
+      "detail": "时任NASA局长｜2022-12-11",
+      "graphic": {
+        "lines": [
+          "溅落是此次任务最突出的成就。"
+        ]
+      },
+      "caption": "时任NASA局长纳尔逊把溅落称为这次任务最突出的成就。",
+      "quote_mode": "paraphrase"
+    },
+    {
+      "role": "watch",
+      "fact_ids": [
+        "next"
+      ],
+      "visual_role": "document",
+      "layout": "statement",
+      "duration": 5,
+      "headline": "后续观察｜当时计划",
+      "fact": "回收之后，数据才开始说话",
+      "detail": "依据：NASA｜2022-12-11发布稿",
+      "graphic": {
+        "lines": [
+          "送回肯尼迪航天中心检查",
+          "取出机载记录，做飞行后分析"
+        ]
+      },
+      "caption": "按NASA当晚的计划，接下来要检查飞船、分析机载记录。"
+    }
+  ],
+  "brand": "新闻图解",
+  "author_credit": "示例｜NASA资料",
+  "mode": "private_preview",
+  "editorial": {
+    "structure": "event_intro",
+    "question": "2022年猎户座返回是怎样的一次测试，溅落后还要查什么？",
+    "as_of": "2022-12-11",
+    "facts": {
+      "splash": {
+        "text": "2022-12-11 12:40 EST，猎户座返回并溅落太平洋。",
+        "source": "https://www.nasa.gov/blogs/artemis/2022/12/11/artemis-i-flight-day-26-orion-splashes-down-concluding-historic-artemis-i-mission/",
+        "locator": "首段：时间和地点",
+        "kind": "fact",
+        "available_on": "2022-12-11"
+      },
+      "test": {
+        "text": "首次把SLS火箭、猎户座飞船和地面支持系统放在同一次综合飞行中测试。",
+        "source": "https://www.nasa.gov/blogs/artemis/2022/12/11/artemis-i-flight-day-26-orion-splashes-down-concluding-historic-artemis-i-mission/",
+        "locator": "回顾任务段：first integrated test",
+        "kind": "fact",
+        "available_on": "2022-12-11"
+      },
+      "launch": {
+        "text": "2022-11-16，SLS从肯尼迪航天中心发射，搭载无人的猎户座。",
+        "source": "https://www.nasa.gov/centers-and-facilities/hq/splashdown-nasas-orion-returns-to-earth-after-historic-moon-mission/",
+        "locator": "开头回顾发射日期",
+        "kind": "fact",
+        "available_on": "2022-12-11"
+      },
+      "heat": {
+        "text": "任务的主要目标包括演示隔热盾在月球返回再入条件下的表现，并回收飞船；为后续载人飞行准备。",
+        "source": "https://www.nasa.gov/artemis-i-press-kit/",
+        "locator": "Mission Overview：Primary objectives",
+        "kind": "fact",
+        "available_on": "2022-12-11"
+      },
+      "quote": {
+        "text": "时任局长比尔·纳尔逊把溅落称为此次任务最突出的成就。",
+        "source": "https://www.nasa.gov/centers-and-facilities/hq/splashdown-nasas-orion-returns-to-earth-after-historic-moon-mission/",
+        "locator": "比尔·纳尔逊的首段引述",
+        "kind": "statement",
+        "available_on": "2022-12-11",
+        "attribution": "比尔·纳尔逊｜时任NASA局长"
+      },
+      "next": {
+        "text": "NASA当时说，将送飞船回肯尼迪航天中心检查，收集机载记录并分析。",
+        "source": "https://www.nasa.gov/blogs/artemis/2022/12/11/artemis-i-flight-day-26-orion-splashes-down-concluding-historic-artemis-i-mission/",
+        "locator": "Once aboard the vessel 段：flight recorders and post-flight analysis",
+        "kind": "plan",
+        "available_on": "2022-12-11",
+        "attribution": "NASA｜2022-12-11发布稿"
+      }
+    }
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "title": "猎户座如何回到地球？",
+  "edition": "SPACE DESK  /  ARCHIVE 2022",
+  "story_source": "https://www.nasa.gov/mission/artemis-i/",
+  "music": null,
+  "assets": {
+    "ascent": {
+      "file": "nasa-ascent.mp4",
+      "source": "https://commons.wikimedia.org/wiki/File:Artemis_I_Rocket_Camera_Footage_of_Ascent_(Artemis_I_-_Rocket_Camera_Footage).webm",
+      "download": "https://images-assets.nasa.gov/video/Artemis%20I%20-%20Rocket%20Camera%20Footage/Artemis%20I%20-%20Rocket%20Camera%20Footage~orig.mp4",
+      "rights": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+      "rights_status": "cleared_for_edit",
+      "credit": "NASA档案｜2022.11.16"
+    },
+    "splash": {
+      "file": "nasa-splash.mp4",
+      "source": "https://images.nasa.gov/details-KSC-20221211-MH-JBP01-0001-Artemis_1_Orion_Splash_Down_6K_Video-3312491",
+      "download": "https://images-assets.nasa.gov/video/KSC-20221211-MH-JBP01-0001-Artemis_1_Orion_Splash_Down_6K_Video-3312491/KSC-20221211-MH-JBP01-0001-Artemis_1_Orion_Splash_Down_6K_Video-3312491~medium.mp4",
+      "rights": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+      "rights_status": "cleared_for_edit",
+      "credit": "NASA无人机档案｜2022.12.11",
+      "crop": [
+        350,
+        674,
+        465,
+        0
+      ]
+    },
+    "splash_wide": {
+      "file": "nasa-splash-wide.mp4",
+      "source": "https://images.nasa.gov/details-KSC-20221211-VP-MWC01-001-ARTEMIS-SPLASHDOWN-3296595",
+      "download": "https://images-assets.nasa.gov/video/KSC-20221211-VP-MWC01-001-ARTEMIS-SPLASHDOWN-3296595/KSC-20221211-VP-MWC01-001-ARTEMIS-SPLASHDOWN-3296595~medium.mp4",
+      "rights": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+      "rights_status": "cleared_for_edit",
+      "credit": "NASA档案｜2022.12.11"
+    }
+  },
+  "beats": [
+    {
+      "asset": "splash",
+      "layout": "split",
+      "duration": 3,
+      "in": 99,
+      "headline": "猎户座返航",
+      "fact": "太平洋上空",
+      "detail": "2022年12月11日",
+      "caption": "三顶降落伞下，是刚刚绕月归来的猎户座。"
+    },
+    {
+      "asset": "ascent",
+      "layout": "full",
+      "duration": 4,
+      "in": 6,
+      "headline": "倒回发射日",
+      "detail": "2022年11月16日｜SLS机载档案",
+      "caption": "把时间拨回11月16日，SLS搭载猎户座升空。"
+    },
+    {
+      "asset": "ascent",
+      "layout": "full",
+      "duration": 4,
+      "in": 11,
+      "headline": "机载视角",
+      "detail": "NASA原始档案｜发射日",
+      "caption": "这是阿耳忒弥斯计划的首次无人综合飞行试验。"
+    },
+    {
+      "layout": "timeline",
+      "duration": 6,
+      "headline": "从发射到溅落",
+      "fact": "25天10小时53分",
+      "detail": "同一次飞行，串起发射、绕月与返回。",
+      "caption": "猎户座飞了25天10小时53分，随后返回地球。",
+      "graphic": {
+        "steps": [
+          [
+            "发射",
+            "11月16日"
+          ],
+          [
+            "绕月",
+            "任务阶段"
+          ],
+          [
+            "溅落",
+            "12月11日"
+          ]
+        ]
+      }
+    },
+    {
+      "asset": "splash_wide",
+      "layout": "full",
+      "duration": 4,
+      "in": 96,
+      "headline": "猎户座溅落太平洋",
+      "fact": "海上溅落",
+      "detail": "2022年12月11日｜远景档案",
+      "caption": "返回地球后，猎户座靠降落伞减速，溅落太平洋。"
+    },
+    {
+      "layout": "close",
+      "duration": 3,
+      "headline": "完成首次综合试飞",
+      "fact": "Artemis I",
+      "detail": "任务资料与画面来源：NASA",
+      "caption": "这次无人试飞，为后续载人任务留下了工程数据。",
+      "graphic": {
+        "steps": [
+          [
+            "2022.11.16",
+            "发射"
+          ],
+          [
+            "2022.12.11",
+            "溅落"
+          ]
+        ]
+      }
+    }
+  ],
+  "brand": "新闻图解",
+  "author_credit": "示例｜NASA资料",
+  "mode": "private_preview"
+}
